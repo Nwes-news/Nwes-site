@@ -2,3 +2,19 @@
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+footer {
+    text-align: center;
+    background-color: rgb(95, 104, 102);
+    color: rgb(234, 234, 234);
+    border-color: rgb(63, 63, 63);
+    border-radius: 8px;
+    width: 200px;
+}
+
+.adlam-font{
+    font-family: "ADLaM Display", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    font-size: x-large;
+}
