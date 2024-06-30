@@ -10,11 +10,11 @@ footer {
     border-color: rgb(63, 63, 63);
     border-radius: 8px;
     width: 200px;
+    font-size: x-large;
 }
 
 .adlam-font{
     font-family: "ADLaM Display", system-ui;
     font-weight: 700;
     font-style: normal;
-    font-size: x-large;
 }
